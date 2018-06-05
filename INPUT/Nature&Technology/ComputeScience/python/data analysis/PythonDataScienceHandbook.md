@@ -14,13 +14,25 @@
 
 ### [2. Introduction to NumPy](02.00-Introduction-to-NumPy.ipynb)
 - [Understanding Data Types in Python](02.01-Understanding-Data-Types.ipynb)
+
 - [The Basics of NumPy Arrays](02.02-The-Basics-Of-NumPy-Arrays.ipynb)
+
 - [Computation on NumPy Arrays: Universal Functions](02.03-Computation-on-arrays-ufuncs.ipynb)
+
 - [Aggregations: Min, Max, and Everything In Between](02.04-Computation-on-arrays-aggregates.ipynb)
+
+  - 
+
+  - 
+
 - [Computation on Arrays: Broadcasting](02.05-Computation-on-arrays-broadcasting.ipynb)
+
 - [Comparisons, Masks, and Boolean Logic](02.06-Boolean-Arrays-and-Masks.ipynb)
+
 - [Fancy Indexing](02.07-Fancy-Indexing.ipynb)
+
 - [Sorting Arrays](02.08-Sorting.ipynb)
+
 - [Structured Data: NumPy's Structured Arrays](02.09-Structured-Data-NumPy.ipynb)
 
 ### [3. Data Manipulation with Pandas](03.00-Introduction-to-Pandas.ipynb)
